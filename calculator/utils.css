@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+    background:  linear-gradient(#22a9e3 ,#e9e036,#1def39);
+    /* padding: 3px 5px; */
+    /* margin: 3px; */
+    width: 100%;
+}
+body{
+    background:linear-gradient(to bottom, #d16ba5, #c276bd, #ad83d1, #9290df, #729be7, #5aa7ee, #3eb3f2, #1fbef2, #03cef6, #1adef7, #3dedf5, #5ffbf1); 
+}
+.container{
+    margin-top: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mx-auto{
+    margin: auto;
+
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row{
+    margin: 8px 0;
+}
